@@ -1,1 +1,20 @@
-npm init -y
+{
+  "name": "git-basics",
+  "version": "1.0.0",
+  "description": "This project helps users learn and practice fundamental Git operations such as repo initialization, branching, committing, and using .gitignore effectively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoharSankar/git-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoharSankar/git-basics/issues"
+  },
+  "homepage": "https://github.com/ManoharSankar/git-basics#readme"
+}
