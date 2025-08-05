@@ -4,7 +4,6 @@ name: CI/CD for Node.js Docker App
 on:
   push:
     branches:
-      - dev
       - main
 
 jobs:
